@@ -1,0 +1,3900 @@
+.fen-hong {
+	--accent: #ffb3a7;
+}
+.fei {
+	--accent: #ed5736;
+}
+.pin-hong {
+	--accent: #f00056;
+}
+.tao-hong {
+	--accent: #f47983;
+}
+.hai-tang-hong {
+	--accent: #db5a6b;
+}
+.shi-liu-hong {
+	--accent: #f20c00;
+}
+.ying-tao {
+	--accent: #c93756;
+}
+.yin-hong {
+	--accent: #f05654;
+}
+.da-hong {
+	--accent: #ff2121;
+}
+.jiang-zi {
+	--accent: #8c4356;
+}
+.fei-hong {
+	--accent: #c83c23;
+}
+.yan-zhi {
+	--accent: #9d2933;
+}
+.zhu-hong {
+	--accent: #ff4c00;
+}
+.dan {
+	--accent: #ff4e20;
+}
+.tong {
+	--accent: #f35336;
+}
+.qian {
+	--accent: #cb3a56;
+}
+.huo-hong {
+	--accent: #ff2d51;
+}
+.he-chi {
+	--accent: #c91f37;
+}
+.yan-hong {
+	--accent: #ef7a82;
+}
+.yang-hong {
+	--accent: #ff0097;
+}
+.yan {
+	--accent: #ff3300;
+}
+.chi {
+	--accent: #c3272b;
+}
+.wan {
+	--accent: #a98175;
+}
+.zao-hong {
+	--accent: #c32136;
+}
+.tan {
+	--accent: #b36d61;
+}
+.yan-hong {
+	--accent: #be002f;
+}
+.tuo-hong {
+	--accent: #dc3023;
+}
+.tuo-yan {
+	--accent: #f9906f;
+}
+.e-huang {
+	--accent: #fff143;
+}
+.ya-huang {
+	--accent: #faff72;
+}
+.ying-cao {
+	--accent: #eaff56;
+}
+.xing-huang {
+	--accent: #ffa631;
+}
+.xing-hong {
+	--accent: #ff8c31;
+}
+.ju-huang {
+	--accent: #ff8936;
+}
+.cheng-huang {
+	--accent: #ffa400;
+}
+.ju-hong {
+	--accent: #ff7500;
+}
+.jiang-huang {
+	--accent: #ffc773;
+}
+.xiang {
+	--accent: #f0c239;
+}
+.cheng {
+	--accent: #fa8c35;
+}
+.cha {
+	--accent: #b35c44;
+}
+.tuo {
+	--accent: #a88462;
+}
+.hun-huang {
+	--accent: #c89b40;
+}
+.li-se {
+	--accent: #60281e;
+}
+.zong {
+	--accent: #b25d25;
+}
+.zong-lv {
+	--accent: #827100;
+}
+.zong-hei {
+	--accent: #7c4b00;
+}
+.zong-hong {
+	--accent: #9b4400;
+}
+.zong-huang {
+	--accent: #ae7000;
+}
+.zhe {
+	--accent: #955539;
+}
+.hu-po {
+	--accent: #ca6924;
+}
+.he {
+	--accent: #6e511e;
+}
+.ku-huang {
+	--accent: #d3b17d;
+}
+.huang-lu {
+	--accent: #e29c45;
+}
+.qiu {
+	--accent: #896c39;
+}
+.qiu-xiang {
+	--accent: #d9b611;
+}
+.nen-lv {
+	--accent: #bddd22;
+}
+.liu-huang {
+	--accent: #c9dd22;
+}
+.liu-lv {
+	--accent: #afdd22;
+}
+.zhu-qing {
+	--accent: #789262;
+}
+.cong-huang {
+	--accent: #a3d900;
+}
+.cong-lv {
+	--accent: #9ed900;
+}
+.cong-qing {
+	--accent: #0eb83a;
+}
+.qing-cong {
+	--accent: #0aa344;
+}
+.you-lv {
+	--accent: #00bc12;
+}
+.lv-chen {
+	--accent: #0c8918;
+}
+.bi {
+	--accent: #1bd1a5;
+}
+.bi-lv {
+	--accent: #2add9c;
+}
+.qing-bi {
+	--accent: #48c0a3;
+}
+.fei-cui {
+	--accent: #3de1ad;
+}
+.cao-lv {
+	--accent: #40de5a;
+}
+.qing {
+	--accent: #00e09e;
+}
+.qing-cui {
+	--accent: #00e079;
+}
+.qing-bai {
+	--accent: #c0ebd7;
+}
+.ya-luan-qing {
+	--accent: #e0eee8;
+}
+.xie-ke-qing {
+	--accent: #bbcdc5;
+}
+.ya-qing {
+	--accent: #424c50;
+}
+.dou-lv {
+	--accent: #9ed048;
+}
+.dou-qing {
+	--accent: #96ce54;
+}
+.shi-qing {
+	--accent: #7bcfa6;
+}
+.yu {
+	--accent: #7bcfa6;
+}
+.piao {
+	--accent: #7fecad;
+}
+.ai-lv {
+	--accent: #a4e2c6;
+}
+.bai-lv {
+	--accent: #21a675;
+}
+.song-lv {
+	--accent: #057748;
+}
+.song-hua {
+	--accent: #bce672;
+}
+.dian-qing {
+	--accent: #177cb0;
+}
+.dian-lan {
+	--accent: #065279;
+}
+.bi-lan {
+	--accent: #3eede7;
+}
+.wei-lan {
+	--accent: #70f3ff;
+}
+.bao-lan {
+	--accent: #4b5cc4;
+}
+.lan-hui {
+	--accent: #a1afc9;
+}
+.zang-qing {
+	--accent: #2e4e7e;
+}
+.zang-lan {
+	--accent: #3b2e7e;
+}
+.dai {
+	--accent: #4a4266;
+}
+.dai-lv {
+	--accent: #426666;
+}
+.dai-lan {
+	--accent: #425066;
+}
+.dai-zi {
+	--accent: #574266;
+}
+.zi-jiang {
+	--accent: #815463;
+}
+.jiang-zi {
+	--accent: #815476;
+}
+.zi-tan {
+	--accent: #4c221b;
+}
+.gan-qing {
+	--accent: #003371;
+}
+.zi-tang {
+	--accent: #56004f;
+}
+.qing-lian {
+	--accent: #801dae;
+}
+.qun-qing {
+	--accent: #4c8dae;
+}
+.xue-qing {
+	--accent: #b0a4e3;
+}
+.ding-xiang {
+	--accent: #cca4e3;
+}
+.ou {
+	--accent: #edd1d8;
+}
+.ou-he {
+	--accent: #e4c6d0;
+}
+.cang {
+	--accent: #75878a;
+}
+.cang-huang {
+	--accent: #519a73;
+}
+.cang-qing {
+	--accent: #a29b7c;
+}
+.cang-hei {
+	--accent: #7397ab;
+}
+.cang-bai {
+	--accent: #d1d9e0;
+}
+.shui {
+	--accent: #88ada6;
+}
+.shui-hong {
+	--accent: #f3d3e7;
+}
+.shui-lv {
+	--accent: #d4f2e7;
+}
+.shui-lan {
+	--accent: #d2f0f4;
+}
+.dan-qing {
+	--accent: #d3e0f3;
+}
+.hu-lan {
+	--accent: #30dff3;
+}
+.hu-lv {
+	--accent: #25f8cb;
+}
+.jing-bai {
+	--accent: #ffffff;
+}
+.xiang-ya-bai {
+	--accent: #fffbf0;
+}
+.xue-bai {
+	--accent: #f0fcff;
+}
+.yue-bai {
+	--accent: #d6ecf0;
+}
+.gao {
+	--accent: #f2ecde;
+}
+.su {
+	--accent: #e0f0e9;
+}
+.tu-bai {
+	--accent: #f3f9f1;
+}
+.shuang {
+	--accent: #e9f1f6;
+}
+.hua-bai {
+	--accent: #c2ccd0;
+}
+.yu-du-bai {
+	--accent: #fcefe8;
+}
+.ying-bai {
+	--accent: #e3f9fd;
+}
+.hui {
+	--accent: #808080;
+}
+.ya {
+	--accent: #eedeb0;
+}
+.qian-bai {
+	--accent: #f0f0f4;
+}
+.xuan {
+	--accent: #622a1d;
+}
+.xuan-qing {
+	--accent: #3d3b4f;
+}
+.wu {
+	--accent: #725e82;
+}
+.wu-hei {
+	--accent: #392f41;
+}
+.qi-hei {
+	--accent: #161823;
+}
+.mo {
+	--accent: #50616d;
+}
+.mo-hui {
+	--accent: #758a99;
+}
+.zi {
+	--accent: #493131;
+}
+.mei-hei {
+	--accent: #312520;
+}
+.li {
+	--accent: #5d513c;
+}
+.li_2 {
+	--accent: #75664d;
+}
+.you {
+	--accent: #6b6882;
+}
+.you-hei {
+	--accent: #665757;
+}
+.an {
+	--accent: #41555d;
+}
+.chi-jin {
+	--accent: #F2BE45;
+}
+.jin {
+	--accent: #eacd76;
+}
+.yin-bai {
+	--accent: #e9e7ef;
+}
+.tong-lv {
+	--accent: #549688;
+}
+.wu-jin {
+	--accent: #a78e44;
+}
+.lao-yin {
+	--accent: #bacac6;
+}
+.shenyan {
+	--accent: #665a59;
+}
+.yanlise {
+	--accent: #564b4b;
+}
+.mihui {
+	--accent: #c7c2af;
+}
+.gefen {
+	--accent: #efece5;
+}
+.lidefen {
+	--accent: #f0efe8;
+}
+.danhuilv {
+	--accent: #b5c9b7;
+}
+.longquanqingciyouse {
+	--accent: #b1c6ae;
+}
+.chunlv {
+	--accent: #cad3b2;
+}
+.xiulv {
+	--accent: #b9cbb0;
+}
+.qianhuise {
+	--accent: #bec8bb;
+}
+.xiahui {
+	--accent: #baba96;
+}
+.dalishise {
+	--accent: #a2b1a4;
+}
+.faguowutongpise {
+	--accent: #949983;
+}
+.zhongtiaoxialv {
+	--accent: #838c82;
+}
+.songlvse {
+	--accent: #c3cab5;
+}
+.anhui {
+	--accent: #6d7b7a;
+}
+.qingxiase {
+	--accent: #7b8f8a;
+}
+.ganlanhui {
+	--accent: #869b8a;
+}
+.jiaochase {
+	--accent: #666550;
+}
+.chalv {
+	--accent: #626855;
+}
+.tielv {
+	--accent: #66684d;
+}
+.youlv {
+	--accent: #516054;
+}
+.maolv {
+	--accent: #285763;
+}
+.shenhui {
+	--accent: #546263;
+}
+.quehui {
+	--accent: #556473;
+}
+.shenwahui {
+	--accent: #66727a;
+}
+.taihui {
+	--accent: #627166;
+}
+.donghuise {
+	--accent: #6f837f;
+}
+.shuidiaohui {
+	--accent: #929c93;
+}
+.dengcaohui {
+	--accent: #3c3d3d;
+}
+.yuanqing {
+	--accent: #464545;
+}
+.cujingbi {
+	--accent: #4b4b50;
+}
+.hongbi {
+	--accent: #5e5f62;
+}
+.tieqing {
+	--accent: #464d58;
+}
+.tiehui {
+	--accent: #4e575c;
+}
+.qinghuise {
+	--accent: #626567;
+}
+.chengdebi {
+	--accent: #5f6160;
+}
+.chengdehui {
+	--accent: #747470;
+}
+.tingyuanwahuise {
+	--accent: #868171;
+}
+.xiangsihui {
+	--accent: #6b655d;
+}
+.yinshuhui {
+	--accent: #81858e;
+}
+.zhenghui {
+	--accent: #98a5ab;
+}
+.zhimianhui {
+	--accent: #879897;
+}
+.shibanhui {
+	--accent: #708089;
+}
+.luolanhui {
+	--accent: #5b5a74;
+}
+.baicaoshuang {
+	--accent: #373737;
+}
+.youyanmo {
+	--accent: #494846;
+}
+.yinbo {
+	--accent: #a2a091;
+}
+.honghui {
+	--accent: #8a8d92;
+}
+.huanghui {
+	--accent: #b4bbab;
+}
+.anyuzi {
+	--accent: #5c2223;
+}
+.mudanfenhong {
+	--accent: #eea2a4;
+}
+.lizi {
+	--accent: #5a191b;
+}
+.xiangyehong {
+	--accent: #f07c82;
+}
+.putaojiangzi {
+	--accent: #5a1216;
+}
+.yanhong {
+	--accent: #ed5a65;
+}
+.yuhong {
+	--accent: #c04851;
+}
+.chahuahong {
+	--accent: #ee3f4d;
+}
+.gaolianghong {
+	--accent: #c02c38;
+}
+.manjianghong {
+	--accent: #a7535a;
+}
+.shubihong {
+	--accent: #e3b4b8;
+}
+.hehuanhong {
+	--accent: #f0a1a8;
+}
+.chunmeihong {
+	--accent: #f1939c;
+}
+.xiancaihong {
+	--accent: #a61b29;
+}
+.yanhong {
+	--accent: #894e54;
+}
+.meihong {
+	--accent: #c45a65;
+}
+.eguanhong {
+	--accent: #d11a2d;
+}
+.fengyehong {
+	--accent: #c21f30;
+}
+.tangchangpuhong {
+	--accent: #de1c31;
+}
+.zaohong {
+	--accent: #7c1823;
+}
+.zhuganzi {
+	--accent: #541e24;
+}
+.putaozi {
+	--accent: #4c1f24;
+}
+.anziyuanhong {
+	--accent: #82202b;
+}
+.yanhong {
+	--accent: #82111f;
+}
+.caomolihong {
+	--accent: #ef475d;
+}
+.jiangzi {
+	--accent: #4d1018;
+}
+.shanchahong {
+	--accent: #ed556a;
+}
+.xinhui {
+	--accent: #7a7374;
+}
+.haitanghong {
+	--accent: #f03752;
+}
+.jifenhong {
+	--accent: #e6d2d5;
+}
+.shiruihong {
+	--accent: #f0c9cf;
+}
+.danshuhong {
+	--accent: #ee2746;
+}
+.lizi {
+	--accent: #2b1216;
+}
+.shizhuhong {
+	--accent: #ee4863;
+}
+.danqianhong {
+	--accent: #e77c8e;
+}
+.jinyuzi {
+	--accent: #500a16;
+}
+.shanlidouhong {
+	--accent: #c27c88;
+}
+.shubeihui {
+	--accent: #73575c;
+}
+.danruixianghong {
+	--accent: #ee4866;
+}
+.ganzhezi {
+	--accent: #621624;
+}
+.yuejihong {
+	--accent: #ce5777;
+}
+.jianjingyuhong {
+	--accent: #cc163a;
+}
+.shuihong {
+	--accent: #f1c4cd;
+}
+.jianghong {
+	--accent: #eeb8c3;
+}
+.luhui {
+	--accent: #856d72;
+}
+.jiapizi {
+	--accent: #2d0c13;
+}
+.diaozhonghuahong {
+	--accent: #2d0c13;
+}
+.cangyinghui {
+	--accent: #36282b;
+}
+.jinkuihong {
+	--accent: #bf3553;
+}
+.fentuanhuahong {
+	--accent: #ec9bad;
+}
+.shizhuzi {
+	--accent: #63071c;
+}
+.luanshizi {
+	--accent: #30161c;
+}
+.jinghong {
+	--accent: #eea6b7;
+}
+.shaoyaogenghong {
+	--accent: #eba0b3;
+}
+.muyunhui {
+	--accent: #4f383e;
+}
+.jiangdouhong {
+	--accent: #ed9db2;
+}
+.baochunhong {
+	--accent: #ec8aa4;
+}
+.danjianghong {
+	--accent: #ec7696;
+}
+.fengxianhuahong {
+	--accent: #ea7293;
+}
+.xiaguanghong {
+	--accent: #ef82a0;
+}
+.xidanhong {
+	--accent: #ec2c64;
+}
+.jiazhutaohong {
+	--accent: #eb507e;
+}
+.songyemudanhong {
+	--accent: #eb3c70;
+}
+.lianbanhong {
+	--accent: #ea517f;
+}
+.baijihong {
+	--accent: #de7897;
+}
+.yinhonghui {
+	--accent: #b598a1;
+}
+.wenpochuan {
+	--accent: #ed2f6a;
+}
+.cujiangcaohong {
+	--accent: #c5708b;
+}
+.huoezi {
+	--accent: #33141e;
+}
+.yaoguanzi {
+	--accent: #621d34;
+}
+.pinhong {
+	--accent: #ef3473;
+}
+.moshizi {
+	--accent: #382129;
+}
+.mozi {
+	--accent: #310f1b;
+}
+.tanzi {
+	--accent: #381924;
+}
+.chuhehong {
+	--accent: #e16c96;
+}
+.caitouzi {
+	--accent: #951c48;
+}
+.putaojiuhong {
+	--accent: #62102e;
+}
+.danqingzi {
+	--accent: #e0c8d1;
+}
+.bogenhong {
+	--accent: #d13c74;
+}
+.haixiangzi {
+	--accent: #4b1e2f;
+}
+.tuyanhong {
+	--accent: #ec4e8a;
+}
+.nenlinghong {
+	--accent: #de3f7c;
+}
+.yangcongzi {
+	--accent: #a8456b;
+}
+.ganzi {
+	--accent: #461629;
+}
+.zijinghong {
+	--accent: #ee2c79;
+}
+.biandouhuahong {
+	--accent: #ef498b;
+}
+.mabiancaozi {
+	--accent: #ede3e7;
+}
+.canghuahong {
+	--accent: #ec2d7a;
+}
+.banjiuhui {
+	--accent: #482936;
+}
+.gutongzi {
+	--accent: #440e25;
+}
+.danzihong {
+	--accent: #d2568c;
+}
+.dingxiangdanzi {
+	--accent: #e9d7df;
+}
+.meiguihong {
+	--accent: #d2357d;
+}
+.gudinghui {
+	--accent: #36292f;
+}
+.lingmenghong {
+	--accent: #d276a3;
+}
+.yingcaozi {
+	--accent: #c06f98;
+}
+.longxuhong {
+	--accent: #cc5595;
+}
+.dianqishihong {
+	--accent: #c35691;
+}
+.meiguizi {
+	--accent: #ba2f7b;
+}
+.xiancaizi {
+	--accent: #9b1e64;
+}
+.zihui {
+	--accent: #5d3f51;
+}
+.longjingyuzi {
+	--accent: #4e2a40;
+}
+.qinghakezi {
+	--accent: #bc84a8;
+}
+.luolanzi {
+	--accent: #c08eaf;
+}
+.biqizi {
+	--accent: #411c35;
+}
+.doukouzi {
+	--accent: #ad6598;
+}
+.biandouzi {
+	--accent: #a35c8f;
+}
+.qianniuzi {
+	--accent: #681752;
+}
+.zizi {
+	--accent: #894276;
+}
+.gejinzi {
+	--accent: #7e2065;
+}
+.qinglian {
+	--accent: #8b2671;
+}
+.jiehuazi {
+	--accent: #983680;
+}
+.fengxinzi {
+	--accent: #c8adc4;
+}
+.shenqianniuzi {
+	--accent: #1c0d1a;
+}
+.weizi {
+	--accent: #7e1671;
+}
+.zhilanzi {
+	--accent: #7e1671;
+}
+.niaomeizi {
+	--accent: #1e131d;
+}
+.jiegengzi {
+	--accent: #813c85;
+}
+.danqianniuzi {
+	--accent: #d1c2d3;
+}
+.jianfengzi {
+	--accent: #3e3841;
+}
+.xunzi {
+	--accent: #815c94;
+}
+.jinzi {
+	--accent: #806d9e;
+}
+.qianshibai {
+	--accent: #e2e1e4;
+}
+.longkuizi {
+	--accent: #322f3b;
+}
+.tengluozi {
+	--accent: #8076a3;
+}
+.shayuhui {
+	--accent: #35333c;
+}
+.anlongdanzi {
+	--accent: #22202e;
+}
+.anlanzi {
+	--accent: #131124;
+}
+.yeputaozi {
+	--accent: #302f4b;
+}
+.yejuzi {
+	--accent: #525288;
+}
+.shuiniuhui {
+	--accent: #2f2f35;
+}
+.yuanshanzi {
+	--accent: #ccccd6;
+}
+.luodianzi {
+	--accent: #74759b;
+}
+.jingshizi {
+	--accent: #1f2040;
+}
+.mantianxingzi {
+	--accent: #2e317c;
+}
+.danlanzi {
+	--accent: #a7a8bd;
+}
+.shangengzi {
+	--accent: #61649f;
+}
+.niujiaohui {
+	--accent: #2d2e36;
+}
+.yuweihui {
+	--accent: #5e616d;
+}
+.waguanhui {
+	--accent: #47484c;
+}
+.ganglan {
+	--accent: #0f1423;
+}
+.yanhanlan {
+	--accent: #131824;
+}
+.jingyuhui {
+	--accent: #475164;
+}
+.qinghui {
+	--accent: #2b333e;
+}
+.gelan {
+	--accent: #1c2938;
+}
+.anlan {
+	--accent: #101f30;
+}
+.gangqing {
+	--accent: #142334;
+}
+.haitaolan {
+	--accent: #15559a;
+}
+.feiyancaolan {
+	--accent: #0f59a4;
+}
+.dianqing {
+	--accent: #1661ab;
+}
+.ananlan {
+	--accent: #3170a7;
+}
+.haijunlan {
+	--accent: #346c9c;
+}
+.jingtailan {
+	--accent: #2775b6;
+}
+.pinlan {
+	--accent: #2b73af;
+}
+.niluolan {
+	--accent: #2474b5;
+}
+.diechilan {
+	--accent: #4e7ca1;
+}
+.huaqing {
+	--accent: #2376b7;
+}
+.yanlan {
+	--accent: #144a74;
+}
+.xinglan {
+	--accent: #93b5cf;
+}
+.honglan {
+	--accent: #2177b8;
+}
+.bolinlan {
+	--accent: #126bae;
+}
+.qunqing {
+	--accent: #1772b4;
+}
+.yunshuilan {
+	--accent: #baccd9;
+}
+.yushandoulan {
+	--accent: #619ac3;
+}
+.zhanjianhui {
+	--accent: #495c69;
+}
+.qingshanlan {
+	--accent: #8fb2c9;
+}
+.jinglan {
+	--accent: #5698c3;
+}
+.tangcilan {
+	--accent: #11659a;
+}
+.chaolan {
+	--accent: #2983bb;
+}
+.tianlan {
+	--accent: #1677b3;
+}
+.dalishihui {
+	--accent: #c4cbcf;
+}
+.qianniuhualan {
+	--accent: #1177b0;
+}
+.baoshilan {
+	--accent: #2486b9;
+}
+.danlanhui {
+	--accent: #5e7987;
+}
+.nenhui {
+	--accent: #74787a;
+}
+.yinyubai {
+	--accent: #cdd1d3;
+}
+.youlan {
+	--accent: #1781b5;
+}
+.jianshilan {
+	--accent: #66a9c9;
+}
+.yuantianlan {
+	--accent: #d0dfe6;
+}
+.yunshanlan {
+	--accent: #2f90b9;
+}
+.qiubolan {
+	--accent: #8abcd1;
+}
+.jingtianlan {
+	--accent: #c3d7df;
+}
+.yuanweilan {
+	--accent: #158bb8;
+}
+.yunfengbai {
+	--accent: #d8e3e7;
+}
+.xinghui {
+	--accent: #b2bbbe;
+}
+.gulan {
+	--accent: #1a94bc;
+}
+.biqing {
+	--accent: #5cb3cc;
+}
+.canglan {
+	--accent: #134857;
+}
+.shenhuilan {
+	--accent: #132c33;
+}
+.huilan {
+	--accent: #21373d;
+}
+.hushuilan {
+	--accent: #b0d5df;
+}
+.haiqing {
+	--accent: #22a2c3;
+}
+.huanghunhui {
+	--accent: #474b4c;
+}
+.jiqing {
+	--accent: #63bbd0;
+}
+.yuqinlan {
+	--accent: #126e82;
+}
+.danfanlan {
+	--accent: #0f95b0;
+}
+.jianniaolan {
+	--accent: #1491a8;
+}
+.oulan {
+	--accent: #c7d2d4;
+}
+.cuilan {
+	--accent: #1e9eb3;
+}
+.qingtinglan {
+	--accent: #3b818c;
+}
+.kongquelan {
+	--accent: #0eb0c9;
+}
+.weilan {
+	--accent: #29b7cb;
+}
+.pubulan {
+	--accent: #51c4d3;
+}
+.shanlan {
+	--accent: #7cabb1;
+}
+.dianzilan {
+	--accent: #10aec2;
+}
+.wanbolan {
+	--accent: #648e93;
+}
+.qingshuilan {
+	--accent: #93d5dc;
+}
+.xiayunhui {
+	--accent: #617172;
+}
+.haitianlan {
+	--accent: #c6e6e8;
+}
+.xiakeqing {
+	--accent: #869d9d;
+}
+.shilv {
+	--accent: #57c3c2;
+}
+.qionghui {
+	--accent: #c4d7d6;
+}
+.meidielv {
+	--accent: #12aa9c;
+}
+.ehui {
+	--accent: #737c7b;
+}
+.lanlv {
+	--accent: #12a182;
+}
+.zhulv {
+	--accent: #1ba784;
+}
+.yadinglv {
+	--accent: #428675;
+}
+.yueyingbai {
+	--accent: #c0c4c3;
+}
+.haiwanglv {
+	--accent: #248067;
+}
+.shenhailv {
+	--accent: #1a3b32;
+}
+.lvhui {
+	--accent: #314a43;
+}
+.qingfanlv {
+	--accent: #2c9678;
+}
+.canglv {
+	--accent: #223e36;
+}
+.feiquanlv {
+	--accent: #497568;
+}
+.mangconglv {
+	--accent: #141e1b;
+}
+.wuzhilv {
+	--accent: #69a794;
+}
+.tonglv {
+	--accent: #2bae85;
+}
+.caoyuanyuanlv {
+	--accent: #9abeaf;
+}
+.walv {
+	--accent: #45b787;
+}
+.langhualv {
+	--accent: #92b3a5;
+}
+.ganlanlv {
+	--accent: #1f2623;
+}
+.fenlv {
+	--accent: #83cbac;
+}
+.danlvhui {
+	--accent: #70887d;
+}
+.maimiaolv {
+	--accent: #55bb8a;
+}
+.cuilv {
+	--accent: #20a162;
+}
+.conglv {
+	--accent: #40a070;
+}
+.heyelv {
+	--accent: #1a6840;
+}
+.danlv {
+	--accent: #61ac85;
+}
+.tianyuanlv {
+	--accent: #68b88e;
+}
+.yuzanlv {
+	--accent: #a4cab6;
+}
+.chanlv {
+	--accent: #3c9566;
+}
+.koushaolv {
+	--accent: #5dbe8a;
+}
+.bohelv {
+	--accent: #207f4c;
+}
+.yuebai {
+	--accent: #eef7f2;
+}
+.danbaishilv {
+	--accent: #579572;
+}
+.zhuhuanglv {
+	--accent: #b9dec9;
+}
+.kongquelv {
+	--accent: #229453;
+}
+.gongdianlv {
+	--accent: #20894d;
+}
+.yunshanlv {
+	--accent: #15231b;
+}
+.maolv {
+	--accent: #66c18c;
+}
+.bingshanlan {
+	--accent: #a4aca7;
+}
+.minghui {
+	--accent: #8a988e;
+}
+.minglv {
+	--accent: #9eccab;
+}
+.songshuanglv {
+	--accent: #83a78d;
+}
+.baiqucailv {
+	--accent: #485b4d;
+}
+.langyanhui {
+	--accent: #5d655f;
+}
+.wasonglv {
+	--accent: #6e8b74;
+}
+.hujishenglv {
+	--accent: #2b312c;
+}
+.dancuilv {
+	--accent: #c6dfc8;
+}
+.yusuilv {
+	--accent: #41b349;
+}
+.xianlv {
+	--accent: #43b244;
+}
+.youlv {
+	--accent: #253d24;
+}
+.baoshilv {
+	--accent: #41ae3c;
+}
+.jialingshuilv {
+	--accent: #add5a2;
+}
+.tianluolv {
+	--accent: #5e665b;
+}
+.shuilv {
+	--accent: #8cc269;
+}
+.yingwulv {
+	--accent: #5bae23;
+}
+.aibeilv {
+	--accent: #dfecd5;
+}
+.ailv {
+	--accent: #cad3c3;
+}
+.niehui {
+	--accent: #9fa39a;
+}
+.ganlanshilv {
+	--accent: #b2cf87;
+}
+.yalv {
+	--accent: #96c24e;
+}
+.nenjulv {
+	--accent: #f0f5e5;
+}
+.luweilv {
+	--accent: #b7d07a;
+}
+.yaohuang {
+	--accent: #d0deaa;
+}
+.enyoulv {
+	--accent: #373834;
+}
+.pingguolv {
+	--accent: #bacf65;
+}
+.haimeilv {
+	--accent: #e2e7bf;
+}
+.ganlanhuanglv {
+	--accent: #bec936;
+}
+.huaihuahuanglv {
+	--accent: #d2d97a;
+}
+.diehuang {
+	--accent: #e2d849;
+}
+.xiangyabai {
+	--accent: #fffef8;
+}
+.ganlanlv {
+	--accent: #5e5314;
+}
+.xuebai {
+	--accent: #fffef9;
+}
+.danhuilv {
+	--accent: #ad9e5f;
+}
+.foshouhuang {
+	--accent: #fed71a;
+}
+.rubai {
+	--accent: #f9f4dc;
+}
+.xiangjiaohuang {
+	--accent: #e4bf11;
+}
+.xinhelv {
+	--accent: #d2b116;
+}
+.youcaihuahuang {
+	--accent: #fbda41;
+}
+.qiukuihuang {
+	--accent: #eed045;
+}
+.youhuang {
+	--accent: #f1ca17;
+}
+.caohuang {
+	--accent: #d2b42c;
+}
+.liuhuahuang {
+	--accent: #f2ce2b;
+}
+.jianghuang {
+	--accent: #e2c027;
+}
+.tanshuilv {
+	--accent: #645822;
+}
+.jinguahuang {
+	--accent: #fcd217;
+}
+.maiganhuang {
+	--accent: #f8df70;
+}
+.haohuang {
+	--accent: #dfc243;
+}
+.molihuang {
+	--accent: #f8df72;
+}
+.tenghuang {
+	--accent: #ffd111;
+}
+.mangguohuang {
+	--accent: #ddc871;
+}
+.haishenhui {
+	--accent: #fffefa;
+}
+.biluochunlv {
+	--accent: #867018;
+}
+.tailv {
+	--accent: #887322;
+}
+.ningmenghuang {
+	--accent: #fcd337;
+}
+.caohuilv {
+	--accent: #8e804b;
+}
+.xiangrikuihuang {
+	--accent: #fecc11;
+}
+.suxinhuang {
+	--accent: #fccb16;
+}
+.ruyahuang {
+	--accent: #ffc90c;
+}
+.yuehui {
+	--accent: #b7ae8f;
+}
+.kuishanhuang {
+	--accent: #f8d86a;
+}
+.dadouhuang {
+	--accent: #fbcd31;
+}
+.jinzhanhuang {
+	--accent: #fcc307;
+}
+.juleibai {
+	--accent: #e9ddb6;
+}
+.huanglianhuang {
+	--accent: #fcc515;
+}
+.xingrenhuang {
+	--accent: #f7e8aa;
+}
+.guhuang {
+	--accent: #e8b004;
+}
+.muguahuang {
+	--accent: #f9c116;
+}
+.danjianhuang {
+	--accent: #f9d770;
+}
+.yalihuang {
+	--accent: #fbc82f;
+}
+.yinbai {
+	--accent: #f1f0ed;
+}
+.zonglvlv {
+	--accent: #5b4913;
+}
+.yingwuguanhuang {
+	--accent: #f6c430;
+}
+.kulv {
+	--accent: #b78d12;
+}
+.qianlaohuang {
+	--accent: #f9bd10;
+}
+.danmihuang {
+	--accent: #f9d367;
+}
+.jiehuang {
+	--accent: #d9a40e;
+}
+.zhizihuang {
+	--accent: #ebb10d;
+}
+.anhaishuilv {
+	--accent: #584717;
+}
+.miehuang {
+	--accent: #f7de98;
+}
+.bangroubai {
+	--accent: #f9f1db;
+}
+.chaomihuang {
+	--accent: #f4ce69;
+}
+.hupohuang {
+	--accent: #feba07;
+}
+.huilv {
+	--accent: #8a6913;
+}
+.zongyelv {
+	--accent: #876818;
+}
+.chenhui {
+	--accent: #b6a476;
+}
+.youhuang {
+	--accent: #fcb70a;
+}
+.xiangyahuang {
+	--accent: #f0d695;
+}
+.jiaoqing {
+	--accent: #87723e;
+}
+.douzhihuang {
+	--accent: #f8e8c1;
+}
+.tuhuang {
+	--accent: #d6a01d;
+}
+.xiangshuimeiguihuang {
+	--accent: #f7da94;
+}
+.hupihuang {
+	--accent: #eaad1a;
+}
+.jidanhuang {
+	--accent: #fbb612;
+}
+.yinshuhui {
+	--accent: #b5aa90;
+}
+.yudubai {
+	--accent: #f7f4ed;
+}
+.chushuxinghuang {
+	--accent: #f8bc31;
+}
+.shanjihuang {
+	--accent: #b78b26;
+}
+.lianzibai {
+	--accent: #e5d3aa;
+}
+.xiekehui {
+	--accent: #695e45;
+}
+.shashihuang {
+	--accent: #e5b751;
+}
+.gancaohuang {
+	--accent: #f3bf4c;
+}
+.yanyuhui {
+	--accent: #685e48;
+}
+.ezhanghuang {
+	--accent: #fbb929;
+}
+.maiyatanghuang {
+	--accent: #f9d27d;
+}
+.qiantuose {
+	--accent: #e2c17c;
+}
+.bailingniaohui {
+	--accent: #b4a992;
+}
+.laohuang {
+	--accent: #f6dead;
+}
+.liroubai {
+	--accent: #f2e6ce;
+}
+.danrouse {
+	--accent: #f8e0b0;
+}
+.hetunhui {
+	--accent: #393733;
+}
+.yililv {
+	--accent: #835e1d;
+}
+.hanbaiyu {
+	--accent: #f8f4ed;
+}
+.chengpihuang {
+	--accent: #fca104;
+}
+.laiyanglihuang {
+	--accent: #815f25;
+}
+.pipahuang {
+	--accent: #fca106;
+}
+.jinyehuang {
+	--accent: #ffa60f;
+}
+.canghuang {
+	--accent: #806332;
+}
+.fenbai {
+	--accent: #fbf2e3;
+}
+.danjucheng {
+	--accent: #fba414;
+}
+.zhenzhuhui {
+	--accent: #e4dfd7;
+}
+.guibeihuang {
+	--accent: #826b48;
+}
+.qianhui {
+	--accent: #dad4cb;
+}
+.qianhui_2 {
+	--accent: #bbb5ac;
+}
+.zhonghui {
+	--accent: #bbb5ac;
+}
+.xionghuang {
+	--accent: #ff9900;
+}
+.mihuang {
+	--accent: #fbb957;
+}
+.fengfanhuang {
+	--accent: #dc9123;
+}
+.guipidanzong {
+	--accent: #c09351;
+}
+.jinyinghuang {
+	--accent: #f4a83a;
+}
+.rouse {
+	--accent: #f7c173;
+}
+.diaoyezong {
+	--accent: #e7a23f;
+}
+.gutonglv {
+	--accent: #533c1b;
+}
+.luoyingdanfen {
+	--accent: #f9e8d0;
+}
+.ruanmuhuang {
+	--accent: #de9e44;
+}
+.guarangfen {
+	--accent: #f9cb8b;
+}
+.liuehuang {
+	--accent: #f9a633;
+}
+.daimaohuang {
+	--accent: #daa45a;
+}
+.jiaochalv {
+	--accent: #553b18;
+}
+.xiekelv {
+	--accent: #513c20;
+}
+.shanjihe {
+	--accent: #986524;
+}
+.houmaohui {
+	--accent: #97846c;
+}
+.lujiaozong {
+	--accent: #e3bd8d;
+}
+.dansongyan {
+	--accent: #4d4030;
+}
+.wanshoujuhuang {
+	--accent: #fb8b05;
+}
+.dankehuang {
+	--accent: #f8c387;
+}
+.xinghuang {
+	--accent: #f28e16;
+}
+.ganlanhui {
+	--accent: #503e2a;
+}
+.hehui {
+	--accent: #4a4035;
+}
+.manaohui {
+	--accent: #cfccc9;
+}
+.danyinhui {
+	--accent: #c1b2a3;
+}
+.wahui {
+	--accent: #867e76;
+}
+.yehui {
+	--accent: #847c74;
+}
+.beiguahuang {
+	--accent: #fc8c23;
+}
+.hehuabai {
+	--accent: #fbecde;
+}
+.songshuhui {
+	--accent: #4f4032;
+}
+.danmifen {
+	--accent: #fbeee2;
+}
+.shenhui {
+	--accent: #81776e;
+}
+.haiouhui {
+	--accent: #9a8878;
+}
+.chahe {
+	--accent: #5d3d21;
+}
+.tuose {
+	--accent: #66462a;
+}
+.yinhui {
+	--accent: #918072;
+}
+.lupihe {
+	--accent: #d99156;
+}
+.binglangzong {
+	--accent: #c1651a;
+}
+.xiaohui {
+	--accent: #d4c4b7;
+}
+.danzhe {
+	--accent: #be7e4a;
+}
+.gutonghe {
+	--accent: #5c3719;
+}
+.jizong {
+	--accent: #de7622;
+}
+.zuiguarou {
+	--accent: #db8540;
+}
+.yanhui {
+	--accent: #80766e;
+}
+.guiyuhong {
+	--accent: #f09c5a;
+}
+.jucheng {
+	--accent: #f97d1c;
+}
+.jinhuang {
+	--accent: #f26b1f;
+}
+.meiguifen {
+	--accent: #f8b37f;
+}
+.meirenjiaocheng {
+	--accent: #fa7e23;
+}
+.mise {
+	--accent: #f9e9cd;
+}
+.zhuwanghui {
+	--accent: #b7a091;
+}
+.dankafei {
+	--accent: #945833;
+}
+.hailuocheng {
+	--accent: #f0945d;
+}
+.yanshizong {
+	--accent: #964d22;
+}
+.mangguozong {
+	--accent: #954416;
+}
+.taocihong {
+	--accent: #e16723;
+}
+.boluohong {
+	--accent: #fc7930;
+}
+.yujinhong {
+	--accent: #cf7543;
+}
+.jinlianhuacheng {
+	--accent: #f86b1d;
+}
+.huozhuanhong {
+	--accent: #cd6227;
+}
+.chutaofenhong {
+	--accent: #f6dcce;
+}
+.tiezong {
+	--accent: #d85916;
+}
+.jieqiaodanfenhong {
+	--accent: #f7cfba;
+}
+.xiekehong {
+	--accent: #f27635;
+}
+.jintuo {
+	--accent: #e46828;
+}
+.yanhanhong {
+	--accent: #fc6315;
+}
+.dankekezong {
+	--accent: #b7511d;
+}
+.chenxihong {
+	--accent: #ea8958;
+}
+.yufenhong {
+	--accent: #e8b49a;
+}
+.yeqiangweihong {
+	--accent: #fb9968;
+}
+.ouhe {
+	--accent: #edc3ae;
+}
+.changshihui {
+	--accent: #363433;
+}
+.zhonghonghui {
+	--accent: #8b614d;
+}
+.huonizong {
+	--accent: #aa6a4c;
+}
+.ganhong {
+	--accent: #aa6a4c;
+}
+.meijianghong {
+	--accent: #fa5d19;
+}
+.dingxiangzong {
+	--accent: #71361d;
+}
+.danmeiguihui {
+	--accent: #b89485;
+}
+.guaranghong {
+	--accent: #f68c60;
+}
+.dancanghuahong {
+	--accent: #f6ad8f;
+}
+.sunpizong {
+	--accent: #732e12;
+}
+.runhong {
+	--accent: #f7cdbc;
+}
+.longjingyuhong {
+	--accent: #ef632b;
+}
+.dantuhuang {
+	--accent: #8c4b31;
+}
+.zhumuhui {
+	--accent: #64483d;
+}
+.furonghong {
+	--accent: #f9723d;
+}
+.luoxiahong {
+	--accent: #cf4813;
+}
+.faluohong {
+	--accent: #ee8055;
+}
+.caozhuhong {
+	--accent: #f8ebe6;
+}
+.kafei {
+	--accent: #753117;
+}
+.zhonghuituo {
+	--accent: #603d30;
+}
+.yekezong {
+	--accent: #883a1e;
+}
+.xiemaohong {
+	--accent: #b14b28;
+}
+.dandousha {
+	--accent: #873d24;
+}
+.dantaohong {
+	--accent: #f6cec1;
+}
+.dantiehui {
+	--accent: #5b423a;
+}
+.shibanhui {
+	--accent: #624941;
+}
+.danlizong {
+	--accent: #673424;
+}
+.yinzhu {
+	--accent: #f43e06;
+}
+.caomeihong {
+	--accent: #ef6f48;
+}
+.yangshuixianhong {
+	--accent: #f4c7ba;
+}
+.zhuhong {
+	--accent: #ed5126;
+}
+.liuhuahong {
+	--accent: #f34718;
+}
+.shihong {
+	--accent: #f2481b;
+}
+.kekezong {
+	--accent: #652b1c;
+}
+.danyingsuhong {
+	--accent: #eea08c;
+}
+.dahong {
+	--accent: #f04b22;
+}
+.zhayezong {
+	--accent: #692a1b;
+}
+.qingtinghong {
+	--accent: #f1441d;
+}
+.xiangshuzong {
+	--accent: #773d31;
+}
+.jiahong {
+	--accent: #eeaa9c;
+}
+.taohong {
+	--accent: #f0ada0;
+}
+.huoyanzong {
+	--accent: #863020;
+}
+.dantengluozi {
+	--accent: #f2e7e5;
+}
+.zheshi {
+	--accent: #862617;
+}
+.tieshuihong {
+	--accent: #f5391c;
+}
+.yanzhihong {
+	--accent: #f03f24;
+}
+.jiguanghong {
+	--accent: #f33b1f;
+}
+.honggonghong {
+	--accent: #f23e23;
+}
+.luobohong {
+	--accent: #f13c22;
+}
+.quhong {
+	--accent: #f05a46;
+}
+.guqiaohong {
+	--accent: #f17666;
+}
+.pingguohong {
+	--accent: #f15642;
+}
+.guihong {
+	--accent: #f25a47;
+}
+.fenhong {
+	--accent: #f2b9b2;
+}
+.antuozong {
+	--accent: #592620;
+}
+.xiyanghong {
+	--accent: #de2a18;
+}
+.yingtaohong {
+	--accent: #ed3321;
+}
+.shanhuhong {
+	--accent: #f04a3a;
+}
+.huoshanzong {
+	--accent: #482522;
+}
+.lizong {
+	--accent: #5c1e19;
+}
+.hedinghong {
+	--accent: #d42517;
+}
+.shehong {
+	--accent: #f19790;
+}
+.exueshihong {
+	--accent: #ab372f;
+}
+.jiangzong {
+	--accent: #5a1f1b;
+}
+.yusaihong {
+	--accent: #ed3b2f;
+}
+.lusuihui {
+	--accent: #bdaead;
+}
+.lichunhong {
+	--accent: #eb261a;
+}
+.fupenzihong {
+	--accent: #ac1f18;
+}
+.haibaohui {
+	--accent: #483332;
+}
+.dousha {
+	--accent: #481e1c;
+}
+.liuzihong {
+	--accent: #f1908c;
+}
+.qiuhaitanghong {
+	--accent: #ec2b24;
+}
+.wuhuaguohong {
+	--accent: #efafad;
+}
+.danfei {
+	--accent: #f2cac9;
+}
+.meiguihui {
+	--accent: #4b2e2b;
+}
+.danshuhong {
+	--accent: #ed4845;
+}
+.goushuhong {
+	--accent: #ed3333;
+}
+.diaozi {
+	--accent: #5d3131;
+}
+.fuenfuonshien {
+	--accent: #eac0ce;
+}
+.chienfuen {
+	--accent: #e5b8c3;
+}
+.tanfuen {
+	--accent: #e8afc5;
+}
+.tsuueihowa {
+	--accent: #eea5d1;
+}
+.anfuen {
+	--accent: #e18dac;
+}
+.fuhowahon {
+	--accent: #eb7faf;
+}
+.tsushuichin {
+	--accent: #c3a6cb;
+}
+.chienshiintsu {
+	--accent: #ab96c5;
+}
+.chienfuonshientsu {
+	--accent: #d294d3;
+}
+.muchintsu {
+	--accent: #a381ba;
+}
+.chianchunhowasu {
+	--accent: #de7ab1;
+}
+.yantsuontsu {
+	--accent: #9c6680;
+}
+.tsuruoran {
+	--accent: #732e7e;
+}
+.rontantsu {
+	--accent: #423171;
+}
+.shuetsu {
+	--accent: #79485a;
+}
+.honrienhoi {
+	--accent: #c76079;
+}
+.ienfuen {
+	--accent: #d3547e;
+}
+.tsufuen {
+	--accent: #a54358;
+}
+.chikuwanhowahon {
+	--accent: #a52664;
+}
+.chinrientsu {
+	--accent: #95509f;
+}
+.chiennyutsu {
+	--accent: #a22076;
+}
+.pinhon {
+	--accent: #a71368;
+}
+.sumusu {
+	--accent: #ae506b;
+}
+.meikuihon {
+	--accent: #973444;
+}
+.meikuihoi {
+	--accent: #793d56;
+}
+.ienchi {
+	--accent: #952e3a;
+}
+.chienshia {
+	--accent: #af5e53;
+}
+.chuwanhon {
+	--accent: #aa4d3d;
+}
+.ienhon {
+	--accent: #a4414f;
+}
+.inhon {
+	--accent: #c56978;
+}
+.rouhon {
+	--accent: #c17886;
+}
+.fueihon {
+	--accent: #c35655;
+}
+.shinhon {
+	--accent: #c43739;
+}
+.shuehon {
+	--accent: #a03e28;
+}
+.yuechihon {
+	--accent: #bb1c33;
+}
+.morihowahon {
+	--accent: #b31f45;
+}
+.uruosonhon {
+	--accent: #c5283d;
+}
+.inshinhaitan {
+	--accent: #d13559;
+}
+.shianyahon {
+	--accent: #bc343c;
+}
+.shuhon {
+	--accent: #935458;
+}
+.mutanhon {
+	--accent: #b80233;
+}
+.ienhon {
+	--accent: #cc3536;
+}
+.chaohonsu {
+	--accent: #cf292f;
+}
+.inchu {
+	--accent: #d15d5e;
+}
+.chusha {
+	--accent: #b84b48;
+}
+.aruchu {
+	--accent: #c6574b;
+}
+.chupyao {
+	--accent: #e35c3e;
+}
+.chiantan {
+	--accent: #eb652d;
+}
+.fuanchiehon {
+	--accent: #c4473d;
+}
+.ryuhowahon {
+	--accent: #d54b44;
+}
+.shitsusu {
+	--accent: #ed7a3d;
+}
+.chuhon {
+	--accent: #e7693f;
+}
+.chuhowan {
+	--accent: #e8853b;
+}
+.honshanpeisu {
+	--accent: #e9745a;
+}
+.fuenchonsu {
+	--accent: #f89155;
+}
+.chinhon {
+	--accent: #f07544;
+}
+.shonchin {
+	--accent: #e47542;
+}
+.chinhowan {
+	--accent: #c77a3a;
+}
+.shonhowan {
+	--accent: #d0853d;
+}
+.shiahowan {
+	--accent: #e1a14d;
+}
+.ienhowan {
+	--accent: #e1a105;
+}
+.uhowan {
+	--accent: #f5a31f;
+}
+.shiyanchin {
+	--accent: #fcb1aa;
+}
+.fuonshienfuen {
+	--accent: #f4a9aa;
+}
+.roufuen {
+	--accent: #f1c7be;
+}
+.rouhowan {
+	--accent: #f0b69d;
+}
+.yuhon {
+	--accent: #b65b46;
+}
+.honhoirien {
+	--accent: #bb848c;
+}
+.kurifuen {
+	--accent: #da9583;
+}
+.shuhon {
+	--accent: #4d1919;
+}
+.touhon {
+	--accent: #a95352;
+}
+.manaosu {
+	--accent: #c06b49;
+}
+.choshisu {
+	--accent: #c37e5f;
+}
+.chohon {
+	--accent: #b56f58;
+}
+.honfusu {
+	--accent: #c18453;
+}
+.howantsuonsu {
+	--accent: #a5855e;
+}
+.tsuoncha {
+	--accent: #b8844f;
+}
+.chontouo {
+	--accent: #9b7e62;
+}
+.touhowan {
+	--accent: #ce9335;
+}
+.shupisu {
+	--accent: #b37349;
+}
+.kuipisu {
+	--accent: #bb855d;
+}
+.toupusu {
+	--accent: #e3b587;
+}
+.howanryuri {
+	--accent: #e2af45;
+}
+.ryurisu {
+	--accent: #c48d39;
+}
+.tanshiansu {
+	--accent: #dc943b;
+}
+.tsuanhowan {
+	--accent: #c65306;
+}
+.mihon {
+	--accent: #e1bda2;
+}
+.manaofuen {
+	--accent: #d79b75;
+}
+.shianrihowan {
+	--accent: #f4b974;
+}
+.chienhowantsuon {
+	--accent: #dea87a;
+}
+.nankuwahowan {
+	--accent: #f1b67f;
+}
+.ruotouosu {
+	--accent: #d8ad85;
+}
+.ruhowan {
+	--accent: #e2c2a4;
+}
+.chienchuhowan {
+	--accent: #da9558;
+}
+.rupisu {
+	--accent: #e7bb7c;
+}
+.rupitsuon {
+	--accent: #bb9755;
+}
+.chiensuchousu {
+	--accent: #f4d7b4;
+}
+.fuchunfuansu {
+	--accent: #f0d6ac;
+}
+.rupaisu {
+	--accent: #eee1ca;
+}
+.ruhowansu {
+	--accent: #efe0b9;
+}
+.kanshifuen {
+	--accent: #eadcd6;
+}
+.chienshueya {
+	--accent: #eacdd1;
+}
+.chientsuonhoi {
+	--accent: #e1dbcd;
+}
+.fuentsuon {
+	--accent: #dac5b3;
+}
+.chienroufuen {
+	--accent: #eedecc;
+}
+.chientouosu {
+	--accent: #c9ae8c;
+}
+.tantsuoncha {
+	--accent: #b0a085;
+}
+.routsuonhoi {
+	--accent: #b89a83;
+}
+.routsuon {
+	--accent: #d2ae8c;
+}
+.kafueitsuon {
+	--accent: #896c50;
+}
+.howanyasu {
+	--accent: #9b603f;
+}
+.iensu {
+	--accent: #6e4d40;
+}
+.chukurisu {
+	--accent: #84624e;
+}
+.tsuaohon {
+	--accent: #89303f;
+}
+.putaohoi {
+	--accent: #6d4d56;
+}
+.tsuchiansu {
+	--accent: #722e41;
+}
+.tsutonsu {
+	--accent: #723d45;
+}
+.tsuaotsu {
+	--accent: #69282b;
+}
+.heitsu {
+	--accent: #50262b;
+}
+.tsuonhon {
+	--accent: #7c4b40;
+}
+.shienyuhon {
+	--accent: #773d38;
+}
+.tsushanpeisu {
+	--accent: #875a72;
+}
+.shienienhon {
+	--accent: #643441;
+}
+.kafueisu {
+	--accent: #7b5650;
+}
+.toutsuon {
+	--accent: #795253;
+}
+.ruohankuosu {
+	--accent: #7b563f;
+}
+.shienrisu {
+	--accent: #6f5750;
+}
+.chiansu {
+	--accent: #725338;
+}
+.shienhosu {
+	--accent: #55473b;
+}
+.chiantsu {
+	--accent: #704d4e;
+}
+.shienien {
+	--accent: #5a4c4c;
+}
+.chiepitsu {
+	--accent: #674950;
+}
+.ienrisu {
+	--accent: #544847;
+}
+.chienshaoni {
+	--accent: #241d00;
+}
+.chanshaoni {
+	--accent: #6d614a;
+}
+.chontsuonhoi {
+	--accent: #a9987c;
+}
+.chianhowan {
+	--accent: #b49436;
+}
+.shinyasu {
+	--accent: #b4a761;
+}
+.kachihowan {
+	--accent: #d5b884;
+}
+.shihowan {
+	--accent: #f2c04d;
+}
+.rutsuon {
+	--accent: #c9b481;
+}
+.ruhoi {
+	--accent: #c5bba3;
+}
+.rahowan {
+	--accent: #ebe1bd;
+}
+.shieninhoi {
+	--accent: #b2ae9b;
+}
+.mihoi {
+	--accent: #c5bfad;
+}
+.yahowan {
+	--accent: #ebe1b2;
+}
+.chihowan {
+	--accent: #dbc7a6;
+}
+.tantonshi {
+	--accent: #d7c16b;
+}
+.howanchinsu {
+	--accent: #cccc66;
+}
+.tonhowan {
+	--accent: #f2de76;
+}
+.tanhowan {
+	--accent: #e7b55b;
+}
+.howaihowan {
+	--accent: #efe452;
+}
+.minhowan {
+	--accent: #f0c649;
+}
+.sukuwahowahowan {
+	--accent: #f7d550;
+}
+.nenchianhowan {
+	--accent: #e2bd3b;
+}
+.kantsuaohowan {
+	--accent: #e4cf8e;
+}
+.shaochihowan {
+	--accent: #e3d289;
+}
+.yahoi {
+	--accent: #ccc3aa;
+}
+.ninmanhowan {
+	--accent: #e9db39;
+}
+.yantaosu {
+	--accent: #d4d570;
+}
+.tanhowan {
+	--accent: #eae3b3;
+}
+.tanmisu {
+	--accent: #e9e6c5;
+}
+.fufuen {
+	--accent: #ebe8db;
+}
+.kufuen {
+	--accent: #edeadc;
+}
+.ritofuen {
+	--accent: #edebe0;
+}
+.yaryu {
+	--accent: #d9e396;
+}
+.kukuwaryu {
+	--accent: #cddb8f;
+}
+.tsuaohowan {
+	--accent: #dbce54;
+}
+.kuryu {
+	--accent: #b7b278;
+}
+.nentsuonryu {
+	--accent: #7ea174;
+}
+.chientsuaoryu {
+	--accent: #abcc89;
+}
+.tonryusu {
+	--accent: #a5b795;
+}
+.chintousu {
+	--accent: #9bae86;
+}
+.howanryu {
+	--accent: #94a657;
+}
+.shienyaryu {
+	--accent: #8c9636;
+}
+.tsuonryu {
+	--accent: #94c66b;
+}
+.ieryusu {
+	--accent: #5a715f;
+}
+.chunryu {
+	--accent: #cad4ba;
+}
+.tsuanryu {
+	--accent: #4e5f45;
+}
+.kanranryu {
+	--accent: #6a6834;
+}
+.tonkuwaryu {
+	--accent: #519670;
+}
+.fuchinryu {
+	--accent: #96bb8f;
+}
+.ryuryurisu {
+	--accent: #4f7e57;
+}
+.nentsuooryu {
+	--accent: #93b469;
+}
+.inuryu {
+	--accent: #008e59;
+}
+.tsuiryu {
+	--accent: #006e5f;
+}
+.furyu {
+	--accent: #46817e;
+}
+.tsukonchueryu {
+	--accent: #168570;
+}
+.shienryupaoshi {
+	--accent: #2f8f6d;
+}
+.hoiryu {
+	--accent: #5c8987;
+}
+.tonryu {
+	--accent: #68927d;
+}
+.pariryu {
+	--accent: #00b483;
+}
+.kuoryu {
+	--accent: #8ac28e;
+}
+.yuryu {
+	--accent: #88d5b9;
+}
+.kuohoi {
+	--accent: #88aea3;
+}
+.piyushi {
+	--accent: #569597;
+}
+.chiensonryu {
+	--accent: #84c0be;
+}
+.shiensonryu {
+	--accent: #67b4b0;
+}
+.chienshienryu {
+	--accent: #a9e1d3;
+}
+.sanryu {
+	--accent: #90caaf;
+}
+.chiryu {
+	--accent: #baded1;
+}
+.tanhoiryu {
+	--accent: #aec4b7;
+}
+.shuihowan {
+	--accent: #bed2b6;
+}
+.tanryu {
+	--accent: #b8d6c2;
+}
+.yatanchin {
+	--accent: #d1e3db;
+}
+.chienshuiryu {
+	--accent: #bbe2d6;
+}
+.chienchintsuyusu {
+	--accent: #caddd5;
+}
+.ronchuenchintsuyusu {
+	--accent: #b1c5b4;
+}
+.chunryu {
+	--accent: #e3efd1;
+}
+.yuepaisu {
+	--accent: #d1e2de;
+}
+.shuryu {
+	--accent: #b8c8b7;
+}
+.rapai {
+	--accent: #e7e5d0;
+}
+.ruhoi {
+	--accent: #a9b08f;
+}
+.shiahoi {
+	--accent: #b7b99c;
+}
+.tarishisu {
+	--accent: #a2b2a9;
+}
+.fuakuoutompisu {
+	--accent: #919481;
+}
+.chonteiaoshiaryu {
+	--accent: #7f877a;
+}
+.hoimi {
+	--accent: #b6b196;
+}
+.sonryusu {
+	--accent: #bec5b5;
+}
+.anhoi {
+	--accent: #647372;
+}
+.kachiryu {
+	--accent: #647370;
+}
+.shiechin {
+	--accent: #7a988e;
+}
+.chinshiasu {
+	--accent: #7a988b;
+}
+.yushiran {
+	--accent: #507883;
+}
+.kanranhoi {
+	--accent: #7c9283;
+}
+.raoryu {
+	--accent: #3d6e53;
+}
+.moryu {
+	--accent: #3f5b50;
+}
+.chaochasu {
+	--accent: #5c5a46;
+}
+.charyu {
+	--accent: #5c614f;
+}
+.teieryu {
+	--accent: #5e6042;
+}
+.yuryu {
+	--accent: #45554a;
+}
+.tsuaohoisu {
+	--accent: #675b46;
+}
+.antairyu {
+	--accent: #4a6f5d;
+}
+.maoryu {
+	--accent: #155461;
+}
+.shienhoi {
+	--accent: #576768;
+}
+.chuehoi {
+	--accent: #455667;
+}
+.shienwahoi {
+	--accent: #637179;
+}
+.taihoi {
+	--accent: #58665e;
+}
+.shieran {
+	--accent: #658a98;
+}
+.tonhoisu {
+	--accent: #6d817d;
+}
+.yunhoi {
+	--accent: #aac2c4;
+}
+.kuhoi {
+	--accent: #95b1ba;
+}
+.ranhoisu {
+	--accent: #8aa4a8;
+}
+.shuiteiaohoi {
+	--accent: #949c97;
+}
+.chunran {
+	--accent: #7ba1a8;
+}
+.hoiran {
+	--accent: #5d828a;
+}
+.furanhoi {
+	--accent: #59808e;
+}
+.chuyuesu {
+	--accent: #5e90b8;
+}
+.kuran {
+	--accent: #6493af;
+}
+.pinryu {
+	--accent: #00828b;
+}
+.shienchuyue {
+	--accent: #2578b5;
+}
+.ryuriran {
+	--accent: #1a638a;
+}
+.maoyuesu {
+	--accent: #3a89b0;
+}
+.pofuanhoiran {
+	--accent: #4e1892;
+}
+.chientouran {
+	--accent: #1f5574;
+}
+.peichinmaoran {
+	--accent: #276893;
+}
+.ronran {
+	--accent: #31678d;
+}
+.chienhaichianran {
+	--accent: #3c5e91;
+}
+.hairan {
+	--accent: #17507d;
+}
+.shienmaoyuesu {
+	--accent: #2b5f8e;
+}
+.shienmaoran {
+	--accent: #244462;
+}
+.shienran {
+	--accent: #213d62;
+}
+.teienran {
+	--accent: #293150;
+}
+.raotompusu {
+	--accent: #25446b;
+}
+.tairan {
+	--accent: #304758;
+}
+.tsuanran {
+	--accent: #25386b;
+}
+.shienran {
+	--accent: #004db5;
+}
+.konchueran {
+	--accent: #0041a5;
+}
+.chunchin {
+	--accent: #084495;
+}
+.paoshiran {
+	--accent: #1f3696;
+}
+.kanchin {
+	--accent: #3f486c;
+}
+.taichin {
+	--accent: #282e55;
+}
+.tsuanheiran {
+	--accent: #37344c;
+}
+.tantsuaohoi {
+	--accent: #363532;
+}
+.yuwanchin {
+	--accent: #3e3c3d;
+}
+.tsuchintsuao {
+	--accent: #43454a;
+}
+.hontsuao {
+	--accent: #4f5355;
+}
+.teiechin {
+	--accent: #404a57;
+}
+.teiehoi {
+	--accent: #37444b;
+}
+.chinchinsu {
+	--accent: #687fa5;
+}
+.inran {
+	--accent: #b5c1cf;
+}
+.shuehoi {
+	--accent: #cad0d3;
+}
+.tanoufu {
+	--accent: #d5ccd3;
+}
+.chientontsu {
+	--accent: #c4c3cb;
+}
+.rienhoi {
+	--accent: #a8a6b9;
+}
+.shuechinhoi {
+	--accent: #9198ae;
+}
+.shueran {
+	--accent: #7991d1;
+}
+.tsutonhoi {
+	--accent: #857e95;
+}
+.fuonshientsu {
+	--accent: #8b658b;
+}
+.chinhoisu {
+	--accent: #575a5d;
+}
+.chontotsuao {
+	--accent: #5a5c5b;
+}
+.chontohoi {
+	--accent: #757570;
+}
+.teinyuwanwahoisu {
+	--accent: #817c6e;
+}
+.shiansuhoi {
+	--accent: #625c52;
+}
+.inshuhoi {
+	--accent: #71727a;
+}
+.howachin {
+	--accent: #546b83;
+}
+.chonhoi {
+	--accent: #93a2a9;
+}
+.chichinhoi {
+	--accent: #748a8d;
+}
+.shipanhoi {
+	--accent: #6b7c87;
+}
+.inpaisu {
+	--accent: #455667;
+}
+.ruoranhoi {
+	--accent: #4f506d;
+}
+.teinshiantsu {
+	--accent: #695776;
+}
+.paitsuaoshuwan {
+	--accent: #303030;
+}
+.yuienmo {
+	--accent: #3f3f3c;
+}
+.shiachin {
+	--accent: #2b5e7d;
+}
+.shiaryu {
+	--accent: #005b5a;
+}
+.tachichin {
+	--accent: #6d7358;
+}
+.kuchin {
+	--accent: #85794f;
+}
+.inpo {
+	--accent: #585a57;
+}
+.shuenchin {
+	--accent: #796f54;
+}
+.shopisu {
+	--accent: #b9986d;
+}
+.chonsu {
+	--accent: #e67a2a;
+}
+.teiefuen {
+	--accent: #f5c19b;
+}
+.kuorousu {
+	--accent: #f5cebe;
+}
+.chitsuon {
+	--accent: #bca590;
+}
+.naitsuon {
+	--accent: #c1a299;
+}
+.honhoi {
+	--accent: #82878c;
+}
+.shianteietsu {
+	--accent: #8c90b9;
+}
+.howanhoi {
+	--accent: #b0b7ac;
+}
+.nairyu {
+	--accent: #afc8ba;
+}
+.nadeshiko {
+	--accent: #dc9fb4;
+}
+.kohbai {
+	--accent: #e16b8c;
+}
+.suoh {
+	--accent: #8e354a;
+}
+.taikoh {
+	--accent: #f8c3cd;
+}
+.ikkonzome {
+	--accent: #f4a7b9;
+}
+.kuwazome {
+	--accent: #64363c;
+}
+.momo {
+	--accent: #f596aa;
+}
+.ichigo {
+	--accent: #b5495b;
+}
+.usubeni {
+	--accent: #e87a90;
+}
+.imayoh {
+	--accent: #d05a6e;
+}
+.nakabeni {
+	--accent: #db4d6d;
+}
+.sakura {
+	--accent: #fedfe1;
+}
+.umenezumi {
+	--accent: #9e7a7a;
+}
+.karakurenai {
+	--accent: #d0104c;
+}
+.enji {
+	--accent: #9f353a;
+}
+.kurenai {
+	--accent: #cb1b45;
+}
+.toki {
+	--accent: #eea9a9;
+}
+.cyohsyun {
+	--accent: #bf6766;
+}
+.kokiake {
+	--accent: #86473f;
+}
+.sakuranezumi {
+	--accent: #b19693;
+}
+.jinzamomi {
+	--accent: #eb7a77;
+}
+.azuki {
+	--accent: #954a45;
+}
+.suohkoh {
+	--accent: #a96360;
+}
+.akabeni {
+	--accent: #cb4042;
+}
+.shinsyu {
+	--accent: #ab3b3a;
+}
+.haizakura {
+	--accent: #d7c4bb;
+}
+.kuriume {
+	--accent: #904840;
+}
+.ebicha {
+	--accent: #734338;
+}
+.ginsyu {
+	--accent: #c73e3a;
+}
+.kurotobi {
+	--accent: #554236;
+}
+.benitobi {
+	--accent: #994639;
+}
+.akebono {
+	--accent: #f19483;
+}
+.benikaba {
+	--accent: #b54434;
+}
+.mizugaki {
+	--accent: #b9887d;
+}
+.sangosyu {
+	--accent: #f17c67;
+}
+.benihiwada {
+	--accent: #884c3a;
+}
+.syojyohi {
+	--accent: #e83015;
+}
+.entan {
+	--accent: #d75455;
+}
+.shikancha {
+	--accent: #b55d4c;
+}
+.hiwada {
+	--accent: #854836;
+}
+.kakishibu {
+	--accent: #a35e47;
+}
+.ake {
+	--accent: #cc543a;
+}
+.tobi {
+	--accent: #724832;
+}
+.benihi {
+	--accent: #f75c2f;
+}
+.kurikawacha {
+	--accent: #6a4028;
+}
+.bengara {
+	--accent: #9a5034;
+}
+.terigaki {
+	--accent: #c46243;
+}
+.edocha {
+	--accent: #af5f3c;
+}
+.araisyu {
+	--accent: #fb966e;
+}
+.momoshiocha {
+	--accent: #724938;
+}
+.karacha {
+	--accent: #b47157;
+}
+.tokigaracha {
+	--accent: #db8e71;
+}
+.ohni {
+	--accent: #f05e1c;
+}
+.sohi {
+	--accent: #ed784a;
+}
+.ensyucha {
+	--accent: #ca7853;
+}
+.kabacha {
+	--accent: #b35c37;
+}
+.kogecha {
+	--accent: #563f2e;
+}
+.akakoh {
+	--accent: #e3916e;
+}
+.suzumecha {
+	--accent: #8f5a3c;
+}
+.shishi {
+	--accent: #f0a986;
+}
+.sodenkaracha {
+	--accent: #a0674b;
+}
+.kaba {
+	--accent: #c1693c;
+}
+.kokikuchinashi {
+	--accent: #fb9966;
+}
+.kurumi {
+	--accent: #947a6d;
+}
+.taisya {
+	--accent: #a36336;
+}
+.araigaki {
+	--accent: #e79460;
+}
+.kohrozen {
+	--accent: #7d532c;
+}
+.akakuchiba {
+	--accent: #c78550;
+}
+.tonocha {
+	--accent: #985f2a;
+}
+.akashirotsurubami {
+	--accent: #e1a679;
+}
+.sencha {
+	--accent: #855b32;
+}
+.kanzo {
+	--accent: #fc9f4d;
+}
+.sharegaki {
+	--accent: #ffba84;
+}
+.beniukon {
+	--accent: #e98b2a;
+}
+.umezome {
+	--accent: #e9a368;
+}
+.biwacha {
+	--accent: #b17844;
+}
+.chojicha {
+	--accent: #96632e;
+}
+.kenpohzome {
+	--accent: #43341b;
+}
+.kohaku {
+	--accent: #ca7a2c;
+}
+.usugaki {
+	--accent: #ecb88a;
+}
+.kyara {
+	--accent: #78552b;
+}
+.chojizome {
+	--accent: #b07736;
+}
+.fushizome {
+	--accent: #967249;
+}
+.kuchiba {
+	--accent: #e2943b;
+}
+.kincha {
+	--accent: #c7802d;
+}
+.kitsune {
+	--accent: #9b6e23;
+}
+.susutake {
+	--accent: #6e552f;
+}
+.usukoh {
+	--accent: #ebb471;
+}
+.tonoko {
+	--accent: #d7b98e;
+}
+.ginsusutake {
+	--accent: #82663a;
+}
+.ohdo {
+	--accent: #b68e55;
+}
+.shiracha {
+	--accent: #bc9f77;
+}
+.kobicha {
+	--accent: #876633;
+}
+.kigaracha {
+	--accent: #c18a26;
+}
+.yamabuki {
+	--accent: #ffb11b;
+}
+.yamabukicha {
+	--accent: #d19826;
+}
+.hajizome {
+	--accent: #dda52d;
+}
+.kuwacha {
+	--accent: #c99833;
+}
+.tamago {
+	--accent: #f9bf45;
+}
+.shirotsurubami {
+	--accent: #dcb879;
+}
+.kitsurubami {
+	--accent: #ba9132;
+}
+.tamamorokoshi {
+	--accent: #e8b647;
+}
+.hanaba {
+	--accent: #f7c242;
+}
+.namakabe {
+	--accent: #7d6c46;
+}
+.torinoko {
+	--accent: #dac9a6;
+}
+.usuki {
+	--accent: #fad689;
+}
+.kikuchiba {
+	--accent: #d9ab42;
+}
+.kuchinashi {
+	--accent: #f6c555;
+}
+.tohoh {
+	--accent: #ffc408;
+}
+.ukon {
+	--accent: #efbb24;
+}
+.karashi {
+	--accent: #caad5f;
+}
+.higosusutake {
+	--accent: #8d742a;
+}
+.rikyushiracha {
+	--accent: #b4a582;
+}
+.aku {
+	--accent: #877f6c;
+}
+.rikyucha {
+	--accent: #897d55;
+}
+.rokohcha {
+	--accent: #74673e;
+}
+.nataneyu {
+	--accent: #a28c37;
+}
+.uguisucha {
+	--accent: #6c6024;
+}
+.kimirucha {
+	--accent: #867835;
+}
+.mirucha {
+	--accent: #62592c;
+}
+.kariyasu {
+	--accent: #e9cd4c;
+}
+.nanohana {
+	--accent: #f7d94c;
+}
+.kihada {
+	--accent: #fbe251;
+}
+.mushikuri {
+	--accent: #d9cd90;
+}
+.aokuchiba {
+	--accent: #ada142;
+}
+.ominaeshi {
+	--accent: #ddd23b;
+}
+.hiwacha {
+	--accent: #a5a051;
+}
+.hiwa {
+	--accent: #bec23f;
+}
+.uguisu {
+	--accent: #6c6a2d;
+}
+.yanagicha {
+	--accent: #939650;
+}
+.koke {
+	--accent: #838a2d;
+}
+.kikujin {
+	--accent: #b1b479;
+}
+.rikancha {
+	--accent: #616138;
+}
+.aikobicha {
+	--accent: #4b4e2a;
+}
+.miru {
+	--accent: #5b622e;
+}
+.sensaicha {
+	--accent: #4d5139;
+}
+.baikocha {
+	--accent: #89916b;
+}
+.hiwamoegi {
+	--accent: #90b44b;
+}
+.yanagizome {
+	--accent: #91ad70;
+}
+.urayanagi {
+	--accent: #b5caa0;
+}
+.iwaicha {
+	--accent: #646a58;
+}
+.moegi {
+	--accent: #7ba23f;
+}
+.nae {
+	--accent: #86c166;
+}
+.yanagisusutake {
+	--accent: #4a593d;
+}
+.matsuba {
+	--accent: #42602d;
+}
+.aoni {
+	--accent: #516e41;
+}
+.usuao {
+	--accent: #91b493;
+}
+.yanaginezumi {
+	--accent: #808f7c;
+}
+.tokiwa {
+	--accent: #1b813e;
+}
+.wakatake {
+	--accent: #5dac81;
+}
+.chitosemidori {
+	--accent: #36563c;
+}
+.midori {
+	--accent: #227d51;
+}
+.byakuroku {
+	--accent: #a8d8b9;
+}
+.oitake {
+	--accent: #6a8372;
+}
+.tokusa {
+	--accent: #2d6d4b;
+}
+.onandocha {
+	--accent: #465d4c;
+}
+.rokusyoh {
+	--accent: #24936e;
+}
+.sabiseiji {
+	--accent: #86a697;
+}
+.aotake {
+	--accent: #00896c;
+}
+.veludo {
+	--accent: #096148;
+}
+.mushiao {
+	--accent: #20604f;
+}
+.aimirucha {
+	--accent: #0f4c3a;
+}
+.tonocha2 {
+	--accent: #4f726c;
+}
+.aomidori {
+	--accent: #00aa90;
+}
+.seiji {
+	--accent: #69b0ac;
+}
+.tetsu {
+	--accent: #26453d;
+}
+.mizuasagi {
+	--accent: #66bab7;
+}
+.seiheki {
+	--accent: #268785;
+}
+.sabitetsuonando {
+	--accent: #405b55;
+}
+.korainando {
+	--accent: #305a56;
+}
+.byakugun {
+	--accent: #78c2c4;
+}
+.omeshicha {
+	--accent: #376b6d;
+}
+.kamenozoki {
+	--accent: #a5dee4;
+}
+.fukagawanezumi {
+	--accent: #77969a;
+}
+.sabiasagi {
+	--accent: #6699a1;
+}
+.mizu {
+	--accent: #81c7d4;
+}
+.asagi {
+	--accent: #33a6b8;
+}
+.onando {
+	--accent: #0c4842;
+}
+.ai {
+	--accent: #0d5661;
+}
+.shinbashi {
+	--accent: #0089a7;
+}
+.sabionando {
+	--accent: #336774;
+}
+.tetsuonando {
+	--accent: #255359;
+}
+.hanaasagi {
+	--accent: #1e88a8;
+}
+.ainezumi {
+	--accent: #566c73;
+}
+.masuhana {
+	--accent: #577c8a;
+}
+.sora {
+	--accent: #58b2dc;
+}
+.noshimehana {
+	--accent: #2b5f75;
+}
+.chigusa {
+	--accent: #3a8fb7;
+}
+.omeshionando {
+	--accent: #2e5c6e;
+}
+.hanada {
+	--accent: #006284;
+}
+.wasurenagusa {
+	--accent: #7db9de;
+}
+.gunjyo {
+	--accent: #51a8dd;
+}
+.tsuyukusa {
+	--accent: #2ea9df;
+}
+.kurotsurubami {
+	--accent: #0b1013;
+}
+.kon {
+	--accent: #0f2540;
+}
+.kachi {
+	--accent: #08192d;
+}
+.ruri {
+	--accent: #005caf;
+}
+.rurikon {
+	--accent: #0b346e;
+}
+.benimidori {
+	--accent: #7b90d2;
+}
+.fujinezumi {
+	--accent: #6e75a4;
+}
+.tetsukon {
+	--accent: #261e47;
+}
+.konjyo {
+	--accent: #113285;
+}
+.benikakehana {
+	--accent: #4e4f97;
+}
+.konkikyo {
+	--accent: #211e55;
+}
+.fuji {
+	--accent: #8b81c3;
+}
+.futaai {
+	--accent: #70649a;
+}
+.ouchi {
+	--accent: #9b90c2;
+}
+.fujimurasaki {
+	--accent: #8a6bbe;
+}
+.kikyo {
+	--accent: #6a4c9c;
+}
+.shion {
+	--accent: #8f77b5;
+}
+.messhi {
+	--accent: #533d5b;
+}
+.usu {
+	--accent: #b28fce;
+}
+.hashita {
+	--accent: #986db2;
+}
+.edomurasaki {
+	--accent: #77428d;
+}
+.shikon {
+	--accent: #3c2f41;
+}
+.kokimurasaki {
+	--accent: #4a225d;
+}
+.sumire {
+	--accent: #66327c;
+}
+.murasaki {
+	--accent: #592c63;
+}
+.ayame {
+	--accent: #6f3381;
+}
+.fujisusutake {
+	--accent: #574c57;
+}
+.benifuji {
+	--accent: #b481bb;
+}
+.kurobeni {
+	--accent: #3f2b36;
+}
+.nasukon {
+	--accent: #572a3f;
+}
+.budohnezumi {
+	--accent: #5e3d50;
+}
+.hatobanezumi {
+	--accent: #72636e;
+}
+.kakitsubata {
+	--accent: #622954;
+}
+.ebizome {
+	--accent: #6d2e5b;
+}
+.botan {
+	--accent: #c1328e;
+}
+.umemurasaki {
+	--accent: #a8497a;
+}
+.nisemurasaki {
+	--accent: #562e37;
+}
+.tsutsuji {
+	--accent: #e03c8a;
+}
+.murasakitobi {
+	--accent: #60373e;
+}
+.shironeri {
+	--accent: #fcfaf2;
+}
+.gofun {
+	--accent: #fffffb;
+}
+.shironezumi {
+	--accent: #bdc0ba;
+}
+.ginnezumi {
+	--accent: #91989f;
+}
+.namari {
+	--accent: #787878;
+}
+.hai {
+	--accent: #828282;
+}
+.sunezumi {
+	--accent: #787d7b;
+}
+.rikyunezumi {
+	--accent: #707c74;
+}
+.nibi {
+	--accent: #656765;
+}
+.aonibi {
+	--accent: #535953;
+}
+.dobunezumi {
+	--accent: #4f4f48;
+}
+.benikeshinezumi {
+	--accent: #52433d;
+}
+.aisumicha {
+	--accent: #373c38;
+}
+.binrojizome {
+	--accent: #3a3226;
+}
+.keshizumi {
+	--accent: #434343;
+}
+.sumi {
+	--accent: #1c1c1c;
+}
+.kuro {
+	--accent: #080808;
+}
+.ro {
+	--accent: #0c0c0c;
+}

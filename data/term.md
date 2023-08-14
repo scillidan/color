@@ -1,0 +1,11 @@
+hex     | name       | tag
+---     | ---        | ---
+#cccccc | cmd        | term
+#8bb91c | cmder      | term
+#508cf5 | powershell | term
+#2a415d | pwsh       | term
+#bb431a | wsl        | term
+#00fb13 | cygwin     | term
+#2591ce | syncthing  | exe
+#5a8d00 | nvidia     | hardware
+#004f8a | intel      | hardware
