@@ -25,3 +25,7 @@ curl -k --remote-name-all -o - ^
 ```
 
 ![](https://raw.githubusercontent.com/scillidan/repo_cos/main/screenshot/color.png)
+
+Can enter `/something` to search in `less`. For example, enter `/zimu` find the rats.
+
+![](https://raw.githubusercontent.com/scillidan/repo_cos/main/screenshot/color_cmd_zumi.png)
