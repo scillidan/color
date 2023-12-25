@@ -16,6 +16,46 @@ source | file
 
 ## Witchcraft 🧙
 
+Install requirements:
+
+```sh
+go install github.com/515hikaru/mdtable2csv@latest
+```
+
+```sh
+cargo install xsv
+```
+
+get `tidy-viewer.exe` from https://github.com/alexhallam/tv/releases
+
+```sh
+git clone https://github.com/Insolita/coloro
+cd coloro
+pip install -e .
+```
+
+Edit `coloro/main.py` [line 31](https://github.com/Insolita/coloro/blob/84418ad02ee579c74374fafa0e5bf3752547ca33/coloro/main.py#L31):
+
+```py
+sys.stdout.buffer.write(text.encode(sys.stdout.encoding, errors='replace'))
+sys.stdout.buffer.write(b'\n')
+```
+
+and [line 50](https://github.com/Insolita/coloro/blob/84418ad02ee579c74374fafa0e5bf3752547ca33/coloro/main.py#L50-L51):
+
+```py
+with open(args.text, 'rb') as f:
+  text = f.read().decode('utf-8')
+```
+
+and [line 53](https://github.com/Insolita/coloro/blob/84418ad02ee579c74374fafa0e5bf3752547ca33/coloro/main.py#L53):
+
+```py
+text = sys.stdin.buffer.read().decode('utf-8')
+```
+
+Then create `clr.cmd` or just run:
+
 ```cmd
 curl -k --remote-name-all -o - ^
   https://raw.githubusercontent.com/scillidan/color/main/data/{chinese-traditional-colors.md,china-tradition-color-monokuro.md,zhongguose.md,china-tradition-color-320.md,nipponcolors.md} ^
