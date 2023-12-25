@@ -2,7 +2,9 @@
 
 Edited by scillidan based on [madi](https://codepen.io/aphrodtes)'s pen [lacuna coil](https://codepen.io/aphrodtes/pen/zYNLLGV) that licensed under [MIT](https://github.com/scillidan/color/blob/main/LICENSE).
 
-# Table
+![](https://raw.githubusercontent.com/scillidan/repo_cos/main/screenshot/color.png)
+
+## Table
 
 source | file
 --- | ---
@@ -23,8 +25,6 @@ curl -k --remote-name-all -o - ^
   | coloro ^
   | less -R
 ```
-
-![](https://raw.githubusercontent.com/scillidan/repo_cos/main/screenshot/color.png)
 
 Can enter `/something` to search in `less`. For example, enter `/zimu` find the rats.
 
