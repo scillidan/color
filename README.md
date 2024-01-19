@@ -2,12 +2,12 @@
 
 Edited by scillidan based on [madi](https://codepen.io/aphrodtes)'s pen [lacuna coil](https://codepen.io/aphrodtes/pen/zYNLLGV) that licensed under [MIT](https://github.com/scillidan/color/blob/main/LICENSE).
 
-![](https://raw.githubusercontent.com/scillidan/repo_cos/main/screenshot/color.png)
+![](https://raw.githubusercontent.com/scillidan/private_cos/main/screenshot/color.png)
 
 ## Table
 
 source | file
---- | ---
+:- | :-
 [中國傳統色彩 (Chinese traditional colors)](https://github.com/reorx/cht-colors) | [md](data/chinese-traditional-colors.md)
 † [中国の伝統色 - 黑白](https://color-pallet.spark-a.com/china-tradition-color-monokuro) | [md](data/china-tradition-color-monokuro.md)
 [zhongguose － 传统颜色](http://zhongguose.com) | [md](data/zhongguose.md)
@@ -68,4 +68,4 @@ curl -k --remote-name-all -o - ^
 
 Can enter `/something` to search in `less`. For example, enter `/zimu` find the rats.
 
-![](https://raw.githubusercontent.com/scillidan/repo_cos/main/screenshot/color_cmd_zumi.png)
+![](https://raw.githubusercontent.com/scillidan/private_cos/main/screenshot/color_cmd_zumi.png)
