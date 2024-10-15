@@ -16,47 +16,24 @@ source | file
 
 ## Witchcraft 🧙
 
-Install requirements:
+Requirements:
+
+- [mdtable2csv](https://github.com/515hikaru/mdtable2csv)
+- [xsv](https://github.com/BurntSushi/xsv)
+- [Tidy Viewer](https://github.com/alexhallam/tv)
+- [Console Hex Color Highlighter](https://github.com/Insolita/coloro)
+
+1. Get `xsv-0.13.0-x86_64-pc-windows-msvc.zip` from [xsv - Releases](https://github.com/BurntSushi/xsv/releases)
+2. Get `tidy-viewer.exe` from [Tidy Viewer - Releases](https://github.com/alexhallam/tv/releases).
 
 ```sh
 go install github.com/515hikaru/mdtable2csv@latest
+pipx install coloro
 ```
+
+Run:
 
 ```sh
-cargo install xsv
-```
-
-get `tidy-viewer.exe` from https://github.com/alexhallam/tv/releases
-
-```sh
-git clone https://github.com/Insolita/coloro
-cd coloro
-pip install -e .
-```
-
-Edit `coloro/main.py` [line 31](https://github.com/Insolita/coloro/blob/84418ad02ee579c74374fafa0e5bf3752547ca33/coloro/main.py#L31):
-
-```py
-sys.stdout.buffer.write(text.encode(sys.stdout.encoding, errors='replace'))
-sys.stdout.buffer.write(b'\n')
-```
-
-and [line 50](https://github.com/Insolita/coloro/blob/84418ad02ee579c74374fafa0e5bf3752547ca33/coloro/main.py#L50-L51):
-
-```py
-with open(args.text, 'rb') as f:
-  text = f.read().decode('utf-8')
-```
-
-and [line 53](https://github.com/Insolita/coloro/blob/84418ad02ee579c74374fafa0e5bf3752547ca33/coloro/main.py#L53):
-
-```py
-text = sys.stdin.buffer.read().decode('utf-8')
-```
-
-Then create `clr.cmd` or just run:
-
-```cmd
 curl -k --remote-name-all -o - ^
   https://raw.githubusercontent.com/scillidan/color/main/data/{chinese-traditional-colors.md,china-tradition-color-monokuro.md,zhongguose.md,china-tradition-color-320.md,nipponcolors.md} ^
   | mdtable2csv ^
@@ -66,6 +43,6 @@ curl -k --remote-name-all -o - ^
   | less -R
 ```
 
-Can enter `/something` to search in `less`. For example, enter `/zimu` find the rats.
+Can enter `/<string>` to search in `less`. For example, enter `/zimu` find the rats.
 
 ![](https://raw.githubusercontent.com/scillidan/Cos_Asset/master/screenshot/color_cmd_zumi.png)
