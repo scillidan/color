@@ -46,3 +46,7 @@ curl -k --remote-name-all -o - ^
 Can enter `/<string>` to search in `less`. For example, enter `/zimu` find the rats.
 
 ![](https://raw.githubusercontent.com/scillidan/asset/main/screenshot/color_cmd_zumi.png)
+
+## Attribute
+
+The content write by me is under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
