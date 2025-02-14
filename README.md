@@ -2,7 +2,7 @@
 
 Edited by scillidan based on [madi](https://codepen.io/aphrodtes)'s pen [lacuna coil](https://codepen.io/aphrodtes/pen/zYNLLGV) that licensed under [MIT](https://github.com/scillidan/color/blob/main/LICENSE).
 
-![](https://raw.githubusercontent.com/scillidan/asset/main/js-demo/color.png)
+![](https://raw.githubusercontent.com/scillidan/asset_public/main/js-demo/color.png)
 
 ## Table
 
@@ -45,7 +45,7 @@ curl -k --remote-name-all -o - ^
 
 Can enter `/<string>` to search in `less`. For example, enter `/zimu` find the rats.
 
-![](https://raw.githubusercontent.com/scillidan/asset/main/bin/color_cmd_zumi.png)
+![](https://raw.githubusercontent.com/scillidan/asset_public/main/bin/color_cmd_zumi.png)
 
 ## Attribute
 
