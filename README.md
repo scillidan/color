@@ -1,5 +1,13 @@
 # color
 
+[![CC0 1.0][cc-zero-image]][cc-zero]
+
+[cc-zero]: http://creativecommons.org/licenses/zero/1.0/
+[cc-zero-image]: https://i.creativecommons.org/l/zero/1.0/88x31.png
+[cc-zero-shield]: https://img.shields.io/badge/License-CC%20ZERO%201.0-lightgrey.svg
+
+[![](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://scillidan.github.io/color)
+
 Edited by scillidan based on [madi](https://codepen.io/aphrodtes)'s pen [lacuna coil](https://codepen.io/aphrodtes/pen/zYNLLGV) that licensed under [MIT](https://github.com/scillidan/color/blob/main/LICENSE).
 
 ![](asset/color.png)
@@ -48,7 +56,3 @@ curl -k --remote-name-all -o - \
 Can enter `/<string>` to search in `less`. For example, enter `/zimu` find the rats.
 
 ![](asset/combo_color_zumi.png)
-
-## Attribute
-
-The content write by me is under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
